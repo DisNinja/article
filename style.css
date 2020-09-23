@@ -1,0 +1,32 @@
+h1{
+    font-size: 36px;
+    text-align: center;
+    color: rgba(0,0,0,.8);
+    font-style: "Lucida Grande","Lucida Sans Unicode","Lucida Sans","Geneva",Arial,sans-serif;
+}
+figure{
+    font-style: "Lucida Grande";
+    text-align: center;
+}
+image{
+    border-image-source: none;
+    border: 0;
+}
+article{
+ max-width: 700px;
+ white-space: 10px;
+ margin: center;
+
+}
+
+p{
+    color: rgba(0,0,0,.8);
+    font-style: Georgia, "Times New Roman", Times, serif;
+    font-size: 21px;
+    line-height: 1.58;
+    letter-spacing: -.003;
+}
+
+a{
+    color: rgba(0,0,0,.8);
+}
